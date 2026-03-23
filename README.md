@@ -1,11 +1,11 @@
 # Aspect of Selene Fix
 
-> A bug fix that ensures the Argent Skull's Aspect of Selene works correctly with Path of Stars upgrades.
+> A bug fix that ensures the Aspect of Selene registers its hex similar to how hexes work.
 
 ## Features
 
-- Fixes a bug where the Aspect of Selene would not correctly register its Hex, preventing you from being offered Path of Stars upgrades.
-- Fixes an issue with the "Skyfall" ability to ensure it works as intended.
+- Fixes a bug where the Aspect of Selene would not correctly register its Hex, preventing you from being offered Path of Stars upgrades right away.
+- Sky fall is now always at full moonglow.
 
 ## Installation
 
